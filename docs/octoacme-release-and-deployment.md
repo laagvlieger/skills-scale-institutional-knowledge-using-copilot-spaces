@@ -3,6 +3,8 @@
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
+> **Related resources:** [Roles & Personas](./octoacme-roles-and-personas.md) | [Execution & Tracking](./octoacme-execution-and-tracking.md) | [Risk Management & Communication](./octoacme-risks-and-communication.md)
+
 ## Release Types
 - Patch: hotfixes addressing critical production issues
 - Minor: incremental features and improvements
@@ -22,6 +24,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] Release readiness review completed (DevOps Engineer, Technical Lead, Project Manager, Product Manager)
+- [ ] Support/Customer Success team notified of changes and known issues
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:

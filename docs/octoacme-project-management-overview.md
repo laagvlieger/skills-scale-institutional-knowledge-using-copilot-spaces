@@ -3,6 +3,8 @@
 ## Purpose
 Provide a concise, shareable introduction to how OctoAcme runs projects so new teammates can quickly understand our approach, roles, and key artifacts.
 
+> **Quick links:** [Roles & Personas](./octoacme-roles-and-personas.md) | [Project Initiation](./octoacme-project-initiation.md) | [Project Planning](./octoacme-project-planning.md) | [Execution & Tracking](./octoacme-execution-and-tracking.md) | [Risk Management & Communication](./octoacme-risks-and-communication.md)
+
 ## Scope
 Applies to all cross-functional projects that deliver product features, services, or integrations.
 
@@ -14,11 +16,16 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM):** coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM):** defines outcomes, prioritizes backlog, and measures success.
+- **Technical Lead:** guides architecture, code quality, and technical risk.
+- **Developers:** implement features, collaborate on design and testability.
+- **UX Designer:** ensures usable, accessible product experiences.
+- **DevOps Engineer:** owns CI/CD, infrastructure, and operational reliability.
+- **Support / Customer Success:** bridges customers and the product team.
+- **Stakeholders:** provide inputs and approvals.
+
+> See [Roles & Personas](./octoacme-roles-and-personas.md) for full role definitions, responsibilities, and cross-role interaction guidance.
 
 ## Key Artifacts
 - Project Charter / One-pager

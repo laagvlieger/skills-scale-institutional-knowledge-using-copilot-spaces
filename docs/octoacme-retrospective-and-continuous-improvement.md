@@ -3,6 +3,8 @@
 ## Purpose
 Capture learnings and convert them into actionable improvements.
 
+> **Related resources:** [Roles & Personas](./octoacme-roles-and-personas.md) | [Execution & Tracking](./octoacme-execution-and-tracking.md) | [Risk Management & Communication](./octoacme-risks-and-communication.md)
+
 ## When
 After each sprint, release, or important milestone. Also after incidents.
 
