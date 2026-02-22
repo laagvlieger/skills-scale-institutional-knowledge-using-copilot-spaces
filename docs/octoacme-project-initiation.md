@@ -3,6 +3,8 @@
 ## Purpose
 Define the initial steps to validate and authorize work, align stakeholders, and create a lightweight plan.
 
+> **Related resources:** [Roles & Personas](./octoacme-roles-and-personas.md) | [Project Planning](./octoacme-project-planning.md) | [Project Management Overview](./octoacme-project-management-overview.md)
+
 ## When to use
 Whenever a new project idea or feature proposal is ready to be explored.
 
